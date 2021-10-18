@@ -115,8 +115,3 @@ Model|View|
 |WalletModel|WalletView|
 |ProductModel|ProductView|
 |-|ScreenView|
-
-
-
-
-
